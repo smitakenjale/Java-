@@ -1,0 +1,17 @@
+1.	import java.util.*;  
+2.	class Rhombus {     
+3.	static int perimeterRhombus(int a)     
+4.	{     
+5.	int perimeter;    
+6.	perimeter = 4 * a; //formula for calculating the perimeter of rhombus     
+7.	return(perimeter);     
+8.	}     
+9.	public static void main(String[] args)     
+10.	{     
+11.	Scanner sc = new Scanner(System.in);      
+12.	System.out.println("Enter the side of Rhombus:");  
+13.	int a = sc.nextInt();  
+14.	System.out.println("Perimeter of a rhombus is:");    
+15.	System.out.println(perimeterRhombus(a));     
+16.	}     
+17.	}    

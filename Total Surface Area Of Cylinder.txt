@@ -1,0 +1,11 @@
+1.	public class test  
+2.	{  
+3.	 public static void main(String args[])  
+4.	{  
+5.	 float r, h, surfacearea;  
+6.	  r = 2;  
+7.	  h  = 5;  
+8.	  surfacearea = (22*r*(r+h))/7;  
+9.	  System.out.println("Surface Area of Cylinder is: "+surfacearea);  
+10.	}  
+11.	}  

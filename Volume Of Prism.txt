@@ -1,0 +1,25 @@
+import java.util.*;
+
+public class Main {
+   //main method
+   public static void main(String args[]) {
+   
+      //initialized length of prism
+      double l=3.5;
+      System.out.println("The given length of prism: "+l);
+		
+      //initialized width of prism
+      double b=9;
+      System.out.println("The given width of prism: "+b);
+		
+      //initialized height of prism
+      double h=12;
+      System.out.println("The given height of prism: "+h);
+        
+      //Find volume by using formula
+      double volumeOfPrism= l * b * h;
+		
+      //Print the result
+      System.out.println("Volume of rectangular prism: " +volumeOfPrism);    
+   }
+}
