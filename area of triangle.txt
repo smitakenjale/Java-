@@ -1,0 +1,7 @@
+1.	public class test  
+2.	 {  
+3.	   public static void main (String args[])  
+4.	    {          float b=4,h =13,area ;  
+5.	                         area = ( b*h) / 2 ;  
+6.	                         System.out.println("Area of Triangle is: "+area);  
+7.	    }}  
