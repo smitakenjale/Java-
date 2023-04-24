@@ -1,0 +1,18 @@
+1.	// This a  Java program which calculates the area of a rhombus.  
+2.	class findarea {   
+3.	static int findAreaofrhombus(int d1, int d2)   
+4.	{   
+5.	int Area_of_rhombus;  
+6.	Area_of_rhombus= ( d1 * d2 ) / 2; // It is a formula for calculating the area of rhombus   
+7.	return(Area_of_rhombus);   
+8.	}   
+9.	  
+10.	// Driver method   
+11.	public static void main(String[] args)   
+12.	{   
+13.	int d1 = 20;  
+14.	int d2 = 40;   
+15.	System.out.println("The Area of a rhombus in Java:");  
+16.	System.out.println(findAreaofrhombus(d1, d2));   
+17.	}   
+18.	}  

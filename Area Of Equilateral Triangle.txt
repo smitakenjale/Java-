@@ -1,0 +1,7 @@
+1.	public class tops  
+2.	 {  
+3.	   public static void main (String args[])  
+4.	    {   float a = 5f ;   
+5.	                          double area = ( 1.73 * a*a) / 4 ;  
+6.	System.out.println("Area of Equilateral Triangle is:"+area);  
+7.	    }}  

@@ -1,0 +1,10 @@
+// Driver Code
+	public static void main(String arg[])
+	{
+		float side = 4;
+		System.out.print("Area of Equilateral Triangle:");
+		System.out.println(area_equi_triangle(side));
+		System.out.print("Perimeter of Equilateral Triangle:");
+		System.out.println(peri_equi_triangle(side));
+	}
+}

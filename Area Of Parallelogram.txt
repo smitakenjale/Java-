@@ -1,0 +1,9 @@
+1.	public class parallelogram{  
+2.	    public static void main(String args[])  
+3.	    {  
+4.	   int base=4;  
+5.	  int height=18;  
+6.	  int area_parallelogram=base*height;  
+7.	 System.out.println("Area of the parallelogram="+area_parallelogram);  
+8.	     }  
+9.	}  
